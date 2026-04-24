@@ -1,0 +1,14 @@
+﻿pandas
+numpy
+yfinance
+pandas-datareader
+statsmodels
+scikit-learn
+xgboost
+lightgbm
+hmmlearn
+shap==0.41.0
+backtrader
+plotly
+pyspark
+streamlit
