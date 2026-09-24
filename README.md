@@ -1,8 +1,6 @@
 # Beyond Beta: Regime-Aware ML Factor Model
 
-[![Open in Streamlit]
-(https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
-(https://regime-factor-model-dgetpli9nt65vnjm4q4ubz.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://regime-factor-model-dgetpli9nt65vnjm4q4ubz.streamlit.app/)
 
 ![Dashboard](regime_dashboard.png)
 
