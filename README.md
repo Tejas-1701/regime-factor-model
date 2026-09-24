@@ -1,5 +1,9 @@
 # Beyond Beta: Regime-Aware ML Factor Model
 
+[![Open in Streamlit]
+(https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
+(https://regime-factor-model-dgetpli9nt65vnjm4q4ubz.streamlit.app/)
+
 ![Dashboard](regime_dashboard.png)
 
 Most stock prediction models treat the market as if it always behaves the same way. It doesn't. A model that works well during a calm bull run will fall apart during a crash — and that's precisely when you need it most.
