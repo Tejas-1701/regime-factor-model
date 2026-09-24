@@ -1,10 +1,12 @@
 # Beyond Beta: Regime-Aware ML Factor Model
 
+![Dashboard](regime_dashboard.png)
+
 Most stock prediction models treat the market as if it always behaves the same way. It doesn't. A model that works well during a calm bull run will fall apart during a crash — and that's precisely when you need it most.
 
 This project takes a different approach. Instead of fitting one model to all market conditions, it first figures out what kind of market environment we're in, then applies a model specifically trained for that environment.
 
-Built on 22 years of S&P 500 data (2004–2026) across 501 stocks.
+Built on 22 years of S&P 500 data (2004–2026) across 501 stocks, with the strategy backtested from 2010 to 2026.
 
 ---
 
